@@ -1,0 +1,14 @@
+/* PHASE 9: Forms */
+.input {
+  padding: 50px;
+  float: right;
+  display: block;
+  width: calc(100% - 100px);
+}
+
+.textarea {
+  border: 2px solid black;
+}
+.submit {
+  display: inline-block;
+}
